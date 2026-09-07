@@ -1,4 +1,4 @@
-<h1 align="center">TheWhish / beginner developer</h1>
+<h1 align="center">TheWhish / junior developer</h1>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,vscode" alt="IntelliJ IDEA и Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=idea,webstorm" alt="IntelliJ IDEA и WebStorm" />
 </p>
 
 <picture>
